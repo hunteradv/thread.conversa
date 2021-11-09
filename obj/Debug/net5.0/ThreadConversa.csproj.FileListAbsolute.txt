@@ -1,0 +1,16 @@
+E:\Projetos\ThreadConversa\bin\Debug\net5.0\ThreadConversa.exe
+E:\Projetos\ThreadConversa\bin\Debug\net5.0\ThreadConversa.deps.json
+E:\Projetos\ThreadConversa\bin\Debug\net5.0\ThreadConversa.runtimeconfig.json
+E:\Projetos\ThreadConversa\bin\Debug\net5.0\ThreadConversa.runtimeconfig.dev.json
+E:\Projetos\ThreadConversa\bin\Debug\net5.0\ThreadConversa.dll
+E:\Projetos\ThreadConversa\bin\Debug\net5.0\ref\ThreadConversa.dll
+E:\Projetos\ThreadConversa\bin\Debug\net5.0\ThreadConversa.pdb
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.csproj.AssemblyReference.cache
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.AssemblyInfoInputs.cache
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.AssemblyInfo.cs
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.csproj.CoreCompileInputs.cache
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.dll
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ref\ThreadConversa.dll
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.pdb
+E:\Projetos\ThreadConversa\obj\Debug\net5.0\ThreadConversa.genruntimeconfig.cache
